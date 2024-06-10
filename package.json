@@ -1,0 +1,14 @@
+{
+  "name": "pdf-to-markdown-converter",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to convert PDF files to Markdown",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
